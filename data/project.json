@@ -27,7 +27,9 @@
       "tags": []
     },
     "created_at": "2026-06-25T19:42:46.112Z",
-    "updated_at": "2026-06-25T19:44:27.388Z"
+    "updated_at": "2026-06-25T19:44:27.388Z",
+    "is_private": false,
+    "generate_pages_site": true
   },
   "annotations": {
     "e4e6678a-36f4-451a-a55c-b2435a197317": {
