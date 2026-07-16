@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "abde74a5-da6d-4524-a475-9958ea3b369d": {
+      "label": "test 2",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://www.americanrhetoric.com/mp3clipsXE/politicalspeeches/wendyshermanirannucleardealARXE.mp3",
+      "duration": 1287,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "test 2",
+  "av_file_order": [
+    "abde74a5-da6d-4524-a475-9958ea3b369d"
+  ],
+  "created_at": "2026-07-16T04:20:38.239Z",
+  "created_by": "kywark",
+  "updated_at": "2026-07-16T04:20:38.239Z",
+  "updated_by": "kywark"
+}
