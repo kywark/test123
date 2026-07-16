@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2026-07-16T17:03:37.606Z",
+  "created_by": "kywark",
+  "title": "test 5",
+  "slug": "test-5",
+  "updated_at": "2026-07-16T17:03:37.606Z",
+  "updated_by": "kywark",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "def3f2de-92d2-4e0f-a607-a2999a2a0c35"
+  }
+}
